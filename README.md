@@ -19,4 +19,7 @@
 
 # 영상 
 
-https://youtu.be/h7aS8pUA9aw
+https://github.com/Koalajuni/Hackathon-CalbackAI/assets/98198915/dc8afcf5-8dca-4544-8ee7-7033e4bd34d3
+
+
+
