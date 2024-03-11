@@ -25,7 +25,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:overlay_support/overlay_support.dart';
 import 'package:rxdart/rxdart.dart';
 
-import 'pages/chatgpt_stuff/frontend/chat_home_page.dart';
+import 'pages/chatgpt_model/frontend/chat_home_page.dart';
 
 
 final navigatorKey = GlobalKey<NavigatorState>();
@@ -57,10 +57,10 @@ void main() async {
   if (Platform.isIOS) {
     await Firebase.initializeApp(
         options: FirebaseOptions(
-            apiKey: "AIzaSyCMFQpojC0v_h7LwRQoDYpuwklg2UkWJ-0",
-            appId: "1:619311802725:ios:c56d5bf3216f248fa8998c",
-            messagingSenderId: "619311802725",
-            projectId: "calback-fdeeb"));
+            apiKey: "falseapiKeyfordummyuseabcd12345",
+            appId: "falseappIDfordummyuseabcd12345",
+            messagingSenderId: "falsesenderIDfordummyuseabcd12345",
+            projectId: "falseapi-fdeeb"));
   } else {
     await Firebase.initializeApp();
   }

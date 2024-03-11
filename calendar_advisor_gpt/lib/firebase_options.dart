@@ -50,21 +50,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAfR2jcDykeAHcJ_lj0qNJp3KeDB2OlzjA',
-    appId: '1:619311802725:android:ba91597558ebc98da8998c',
-    messagingSenderId: '619311802725',
-    projectId: 'calback-fdeeb',
-    storageBucket: 'calback-fdeeb.appspot.com',
+    apiKey: 'falseapiKeyfordummyuseabcd12345',
+    appId: 'falseapiKeyfordummyuseabcd12345',
+    messagingSenderId: 'falseapiKeyfordummyuseabcd12345',
+    projectId: 'falseapiKeyfordummyuseabcd12345',
+    storageBucket: 'cfalseapiKeyfordummyuseabcd12345',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCMFQpojC0v_h7LwRQoDYpuwklg2UkWJ-0',
-    appId: '1:619311802725:ios:c56d5bf3216f248fa8998c',
-    messagingSenderId: '619311802725',
-    projectId: 'calback-fdeeb',
-    storageBucket: 'calback-fdeeb.appspot.com',
-    androidClientId: '619311802725-e14jlsdlfeg1psln8jbmh7fmpqlp88ov.apps.googleusercontent.com',
-    iosClientId: '619311802725-6tbq7kftev6bs5ammv94gdtqanlldbo5.apps.googleusercontent.com',
-    iosBundleId: 'com.calback.hym',
+    apiKey: 'falseapiKeyfordummyuseabcd123450',
+    appId: '1falseapiKeyfordummyuseabcd12345c',
+    messagingSenderId: 'falseapiKeyfordummyuseabcd12345725',
+    projectId: 'falseapiKeyfordummyuseabcd12345alseapiKeyfordummyuseabcd12345eb',
+    storageBucket: 'calbfalseapiKeyfordummyuseabcd12345m',
+    androidClientId: 'falseapiKeyfordummyuseabcd12345',
+    iosClientId: 'falseapiKeyfordummyuseabcd12345',
+    iosBundleId: 'falseapiKeyfordummyuseabcd12345',
   );
 }

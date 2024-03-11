@@ -15,7 +15,7 @@ import 'dart:io' show Platform;
 
 import '../services/auth.dart';
 import '../services/notification_services/push_notification.dart';
-import 'chatgpt_stuff/frontend/chat_home_page.dart';
+import 'chatgpt_model/frontend/chat_home_page.dart';
 
 bool isDynamicOpening = false;
 

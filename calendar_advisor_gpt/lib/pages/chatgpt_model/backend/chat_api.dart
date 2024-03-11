@@ -13,7 +13,7 @@ class ChatApi {
       Uri.parse('https://api.openai.com/v1/chat/completions'),
       headers: <String, String> {
         'Content-Type' : 'application/json',
-        'Authorization' : 'Bearer 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'
+        'Authorization' : 'Bearer falseapiKeyfordummyuseabcd12345'
       },
       body: jsonEncode(<String, dynamic> {
         'model' : _model,

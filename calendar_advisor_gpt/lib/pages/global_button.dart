@@ -12,8 +12,8 @@ import '../models/meeting.dart';
 import '../models/userSchedule.dart';
 import '../services/database.dart';
 import 'package:intl/intl.dart';
-import 'chatgpt_stuff/frontend/chat_home_page.dart';
-import 'chatgpt_stuff/frontend/gpt_daily.dart';
+import 'chatgpt_model/frontend/chat_home_page.dart';
+import 'chatgpt_model/frontend/gpt_daily.dart';
 import 'group/group_time_final.dart';
 
 
