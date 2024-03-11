@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "calendar_advisor_gpt",
+            "cwd": "calendar_advisor_gpt",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "calendar_advisor_gpt (profile mode)",
+            "cwd": "calendar_advisor_gpt",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "calendar_advisor_gpt (release mode)",
+            "cwd": "calendar_advisor_gpt",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Flutter",
+            "program": "lib/main.dart",
+            "cwd": "calendar_advisor_gpt",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}

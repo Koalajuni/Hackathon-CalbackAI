@@ -1,0 +1,492 @@
+{
+  "calback": "Calback",
+  "@calback": {
+    "description": "Calback"
+  },
+
+  "home": "Home",
+  "@home": {
+    "description": "Home"
+  },
+
+  "calendar": "Calendar",
+  "@calendar": {
+    "description": "Home"
+  },
+
+  "register": "Register",
+  "@register": {
+    "description": "Register"
+  },
+
+  "language": "English",
+  "@language": {
+     "description": "The current Language"
+  },
+
+  "languages": "Languages",
+  "@languages": {
+    "description": "The Title: Language"
+  },
+
+  "settings": "Settings",
+  "@settings": {
+    "description": "The Settings title"
+  },
+
+  "notification": "Notification",
+  "@notification": {
+    "description": "Notification "
+  },
+
+  "account": "Account",
+  "@account": {
+    "description": "The Settings accounts"
+  },
+
+  "friends": "Friends",
+  "@friends": {
+    "description": "The Settings Friends"
+  },
+
+  "help": "Help",
+  "@help": {
+    "description": "The Settings Help"
+  },
+
+  "terms": "Terms & Conditions",
+  "@terms": {
+    "description": "The Settings Terms& Conditions"
+  },
+
+  "logout": "Log Out",
+  "@logout": {
+    "description": "The Settings - Account - Log Out "
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel"
+  },
+
+  "ok": "OK",
+  "@ok": {
+    "description": "OK"
+  },
+
+  "reject": "Reject",
+  "@reject": {
+    "description": "Reject"
+  },
+
+  "exit": "Exit",
+  "@exit": {
+    "description": "Exit"
+  },
+
+  "add": "Add",
+  "@add": {
+    "description": "Add"
+  },
+
+  "save": "Save",
+  "@save": {
+    "description": "Save"
+  },
+
+  "invite": "Invite",
+  "@invite": {
+    "description": "create"
+  },
+
+  "share": "Share",
+  "@share": {
+    "description": "Share"
+  },
+
+  "send": "Send",
+  "@send": {
+    "description": "Send"
+  },
+
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete"
+  },
+
+  "kakao": "Kakao",
+  "@kakao": {
+    "description": "Kakao"
+  },
+
+  "updated": "Updated",
+  "@updated": {
+    "description": "updated"
+  },
+
+  "groups": "Groups",
+  "@groups": {
+    "description": "Groups"
+  },
+
+  "follow": "Follow",
+  "@follow": {
+    "description": "follow"
+  },
+
+
+
+  "delete_account": "Delete Account",
+  "@delete_account": {
+    "description": "The Settings - Account - Delete Account"
+  },
+
+  "blocked_users": "Blocked Users",
+  "@blocked_users": {
+    "description": "The Settings - Friends - Block Users"
+  },
+
+  "opening_statement": "Share Your Events!",
+  "@opening_statement": {
+    "description": "Home Page - Opening statement"
+  },
+
+  "opening_statement_under": "Socialize your Time",
+  "@opening_statement_under": {
+    "description": "Home Page - Opening statement side statement"
+  },
+
+  "opening_addEvents": "Add       Events",
+  "@opening_addEvents": {
+    "description": "Home Page - Opening add event button"
+  },
+
+  "opening_addEvents_under": "Share Events with Friends",
+  "@opening_addEvents_under": {
+    "description": "Home Page - Opening add event button"
+  },
+
+  "opening_availableTime": "Available Time",
+  "@opening_availableTime": {
+    "description": "Home Page - Opening add available Time button"
+  },
+
+  "opening_availableTime_under": "Create Group & Search Time",
+  "@opening_availableTime_under": {
+    "description": "Home Page - Opening add available Time button"
+  },
+
+  "opening_friendProfile": "Friend Profile",
+  "@opening_friendProfile": {
+    "description": "Home Page - Opening Friend Profile button"
+  },
+
+  "opening_todayList": "Today",
+  "@opening_todayList": {
+    "description": "Home Page - Opening Today appointments"
+  },
+
+  "opening_addFriend": "Add Friends",
+  "@opening_addFriend": {
+    "description": "Home Page - Opening Add Friends"
+  },
+
+  "opening_calbackSearch": "CalBack Search",
+  "@opening_calbackSearch": {
+    "description": "Home Page - Opening Add Friends - CalBack Search"
+  },
+
+  "opening_kakaoFriend": "Kakao Friend",
+  "@opening_kakaoFriend": {
+    "description": "Home Page - Opening Add Friends - CalBack Search"
+  },
+
+  "agenda_noEvents": "There are no events",
+   "@agenda_noEvents": {
+    "description": "Home Page - Agenda - No Events"
+  },
+
+  "eventviewer_involved": "Involved",
+  "@eventviewer_involved": {
+    "description": "Event Viewer Page - Involved Text"
+  },
+
+   "eventviewer_pendingInvolved": "Pending",
+  "@eventviewer_pendingInvolved": {
+    "description": "Event Viewer Page - Pending Users Text"
+  },
+
+
+  "eventviewer_leaveEvent": "Leave Event",
+  "@eventviewer_leaveEvent": {
+    "description": "Event Viewer Page - Leave Event"
+  },
+
+  "eventviewer_leaveQuestion": "Would You Like to Leave Event?",
+  "@eventviewer_leaveQuestion": {
+    "description": "Event Viewer Page - Leave Question Text"
+  },
+
+  "friend_statement": "Share with Friends",
+  "@friend_statement": {
+    "description": "Friend Page - Opening statement"
+  },
+
+  "friend_statementUnder": "Click Here to Add Friends!",
+  "@friend_statementUnder": {
+    "description": "Friend Page - Opening statement under"
+  },
+
+  "friend_addFriend": "Add Friends",
+  "@friend_addFriend": {
+    "description": "Friend Page - Add Friends button"
+  },
+
+  "friend_myProfile": "My Profile",
+  "@friend_myProfile": {
+    "description": "Friend Page - My profile"
+  },
+
+  "friend_friendProfile": "My Friends",
+  "@friend_friendProfile": {
+    "description": "Friend Page - My profile"
+  },
+  "friend_options": "Options",
+  "@friend_options": {
+    "description": "Friend Page - Options"
+  },
+  "friend_optionsDelete": "Delete",
+  "@friend_optionsDelete": {
+    "description": "Friend Page - Options - Delete"
+  },
+  "friend_optionsReport": "Report",
+  "@friend_optionsReport": {
+    "description": "Friend Page - Options"
+  },
+  "friend_report": "Abusive User Report",
+  "@friend_report": {
+    "description": "Friend Page - Options"
+  },
+
+  "friend_reportBlock": "Block User",
+  "@friend_reportBlock": {
+    "description": "Friend Page - Options"
+  },
+
+ "search_friends": "Friends List",
+ "@search_friends": {
+    "description": "Search Page - Friends List"
+  },
+
+
+  "search_groups": "Groups List",
+  "@search_groups": {
+    "description": "Search Page - Groups List"
+  },
+
+
+
+  "notification_opening": "Accept New Requests",
+  "@notification_opening": {
+    "description": "Notification - Opening statement"
+  },
+  "notification_openingUnder": "Requests sent from friends",
+  "@notification_openingUnder": {
+    "description": "Notification - Opening statement under"
+  },
+
+  "notification_friendRequest": "Friend Requests",
+  "@notification_friendRequest": {
+    "description": "Notification - Friend Request"
+  },
+  "notification_meetingRequest": "Meeting Requests",
+  "@notification_meetingRequest": {
+    "description": "Notification - Friend Request"
+  },
+
+  "notification_pendingRequest": "Time Requests",
+  "@notification_pendingRequest": {
+    "description": "Notification - Friend Request"
+  },
+
+
+  "notification_addedFriend": "Friend Added",
+  "@notification_addedFriend": {
+    "description": "Notification - Friend Added"
+  },
+
+  "notification_rejectedFriend": "Friend Rejected",
+  "@notification_rejectedFriend": {
+    "description": "Notification - Friend Rejected"
+  },
+
+  "notification_addedMeeting": "Meeting Added",
+  "@notification_addedMeeting": {
+    "description": "Notification - Meeting Added"
+  },
+
+  "notification_rejectedMeeting": "Meeting Rejected",
+  "@notification_rejectedMeeting": {
+    "description": "Notification - Friend Rejected"
+  },
+
+  "notification_sendTime": "Insert",
+  "@notification_sendTime": {
+    "description": "Notification - Friend Rejected"
+  },
+
+  "daily_top": "Event",
+  "@daily_top": {
+    "description": "Event"
+  },
+
+  "daily_colorPick": "Pick a Color",
+  "@daily_colorPick": {
+    "description": "Daily and Daily edit - Color picker"
+  },
+
+  "daily_eventName": "Enter Event Name",
+  "@daily_eventName": {
+    "description": "Daily and Daily edit - Event Name"
+  },
+
+  "daily_start": "Start",
+  "@daily_start": {
+    "description": "Daily and Daily edit - Start"
+  },
+
+  "daily_end": "End",
+  "@daily_end": {
+    "description": "Daily and Daily edit - End"
+  },
+
+  "daily_calbackFriends": "CalBack Friends",
+  "@daily_calbackFriends": {
+    "description": "Daily calback friends"
+  },
+
+  "daily_sharePlatform": "Share Event",
+  "@daily_sharePlatform": {
+    "description": "Daily Sharing options"
+  },
+
+  "daily_friendPopUp": "Invite Friends",
+  "@daily_friendPopUp": {
+    "description": "Daily Friend Pop Up List"
+  },
+
+
+  "weekly": "Week View",
+  "@weekly": {
+    "description": "Week View"
+  },
+
+  "group_time": "Group Time",
+  "@group_time": {
+    "description": "Group Time"
+  },
+
+  "group_requestAvailableTime": "Set Time for Request",
+  "@group_requestAvailableTime": {
+    "description": "Request Available Time "
+  },
+
+  "group_calbackShare": "Calback Share",
+  "@group_calbackShare": {
+    "description": "Group  - Calback Share "
+  },
+  "group_kakaoShare": "Kakao Share",
+  "@group_kakaoShare": {
+    "description": "Request Available Time "
+  },
+
+  "groupmeeting_deleteGroup": "Delete Group",
+  "@groupmeeting_deleteGroup": {
+    "description": "Delete Group"
+  },
+
+  "groupmeeting_deleteQuestion": "Will Delete for all Users",
+  "@groupmeeting_deleteQuestion": {
+    "description": "Group Meeting question "
+  },
+
+  "preferenceweek_checkAvailable": "Check Available",
+  "@preferenceweek_checkAvailable": {
+    "description": "Check Available "
+  },
+
+  "preferenceweek_myCalendar": "Send My Calendar",
+  "@preferenceweek_myCalendar": {
+    "description": "Send My Calendare "
+  },
+
+  "accountSettings_name": "Enter Your Name",
+  "@accountSettings_name": {
+    "description": "Enter Your Name"
+  },
+
+  "eula": "End User Licese Agreement",
+  "@eula": {
+    "description": "EULA"
+  },
+
+  "privacy_policy": "Privacy Policy",
+  "@privacy_policy": {
+    "description": "Privacy Policy"
+  },
+
+  "alert_title": "Alert",
+  "@alert_title": {
+    "description": "alert title"
+  },
+
+  "alert_overlappingTime": "Start and end time can't be the same",
+  "@alert_overlappingTime": {
+    "description": "Start and End Time error check"
+  },
+
+  "login": "Sign In",
+  "@login": {
+    "description": "Sign In"
+  },
+
+  "login_kakaoText": "Login with Kakao ID",
+  "@login_kakaoText": {
+    "description": "Log in - kakao text"
+  },
+
+  "signup_title": "Sign Up to CalBack",
+  "@signup_title": {
+    "description": "Sign Up to CalBack"
+  },
+
+  "pending": "Pending Group",
+  "@pending": {
+    "description": "Pending Group"
+  },
+
+  "error": "error",
+  "@error": {
+    "description": "Error"
+  },
+
+  "empt_wt_error": "No wanted times were selected, please try again",
+  "@error": {
+    "description": "Error message when empty wanted times is tried to be sent"
+  },
+  
+  "empt_wt_error": "No wanted times were selected, please try again",
+  "@error": {
+    "description": "Error message when empty wanted times is tried to be sent"
+  },
+
+  "empt_wt_error": "No wanted times were selected,\nplease try again",
+  "@error": {
+    "description": "Error message when empty wanted times is tried to be sent"
+  },
+
+  "invalid_time_error": "Invalid time range,\nplease try resetting the time range",
+  "@error": {
+    "description": "Error message when time range of meeting is invalid"
+  }
+}
+

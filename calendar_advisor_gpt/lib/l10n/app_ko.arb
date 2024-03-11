@@ -1,0 +1,127 @@
+{
+  "calback": "캘박",
+  "home": "홈",
+  "calendar": "달력",
+  "register": "회원가입",
+  "language": "한국어",
+  "languages": "언어",
+  "settings": "설정",
+  "notification": "알림",
+  "account": "계정",
+  "friends": "친구",
+  "help": "도움말",
+  "terms": "약관",
+  "logout": "로그아웃",
+  "cancel": "취소",
+  "ok": "확인",
+  "reject": "거절",
+  "exit": "나가기",
+  "add": "일정 추가",
+  "save": "저장",
+  "invite": "초대",
+  "share": "공유",
+  "send": "보내기",
+  "delete": "삭제",
+  "kakao": "카카오톡",
+  "updated": "저장 완료",
+  "groups": "그룹",
+  "follow": "팔로우",
+
+
+
+
+  "delete_account": "계정 삭제",
+  "blocked_users": "차단된 계정",
+
+  "opening_statement": "캘박으로 약속 잡아요!",
+  "opening_statement_under": "간편한 약속 추가 및 관리 서비스",
+  "opening_addEvents": "일정 생성 후 공유하기",
+  "opening_addEvents_under": "재미있는 이벤트   친구들과 함께해요!",
+  "opening_availableTime": "그룹 맞는 시간 찾기",
+  "opening_availableTime_under": "우리 그래서 비는 시간이 언제야?",
+  "opening_friendProfile": "친구 프로필",
+  "opening_todayList": "오늘 일정",
+  "opening_addFriend": "친구 추가",
+  "opening_calbackSearch":"캘박으로 추가",
+  "opening_kakaoFriend": "카카오톡으로 추가",
+
+  "agenda_noEvents": "일정이 없습니다!",
+
+
+  "eventviewer_involved": "참가자",
+  "eventviewer_pendingInvolved": "요청중",
+  "eventviewer_leaveEvent": "이벤트 나가기",
+  "eventviewer_leaveQuestion": "약속에서 나가시겠어요?",
+
+  "friend_statement": "친구랑 공유하기",
+  "friend_statementUnder": "탭해서 친구 추가 하기!",
+  "friend_addFriend": "친구 추가",
+  "friend_myProfile": "내 프로필",
+  "friend_friendProfile": "내 친구",
+  "friend_options": "옵션",
+  "friend_optionsDelete": "삭제",
+  "friend_optionsReport": "신고",
+  "friend_report": "유저 신고",
+  "friend_reportBlock": "차단하기",
+
+
+  "search_friends": "친구 목록",
+  "search_groups": "그룹 목록",
+
+
+
+  "notification_opening": "요청받은 친구와 이벤트",
+  "notification_openingUnder": "수락해서 같이 약속을 공유해요",
+  "notification_friendRequest": "친구 요청",
+  "notification_meetingRequest": "약속 요청",
+  "notification_pendingRequest": "시간 요청",
+  "notification_addedFriend": "친구 추가됨",
+  "notification_rejectedFriend": "친구 거절됨",
+  "notification_addedMeeting": "약속 추가됨",
+  "notification_rejectedMeeting": "약속 거절됨",
+  "notification_sendTime": "시간 입력",
+
+  "daily_top": "일정",
+  "daily_colorPick": "원하는 색",
+  "daily_eventName": "약속 이름",
+  "daily_start": "시작",
+  "daily_end": "종료",
+  "daily_calbackFriends": "캘박 친구",
+  "daily_sharePlatform": "일정 공유",
+  "daily_friendPopUp": "누구와 함께 할까요?",
+
+  "weekly": "주별 보기",
+
+
+  "group_time": "그룹 시간 만들기",
+  "group_requestAvailableTime": "찾으려는 시간 설정",
+  "group_calbackShare": "캘박으로 공유",
+  "group_kakaoShare": "카카오톡으로 공유",
+  "groupmeeting_deleteGroup": "그룹 시간 삭제",
+  "groupmeeting_deleteQuestion": "그룹찾기 전체를 삭제하시겠어요?",
+
+  "preferenceweek_checkAvailable": "원하는 시간 선택",
+  "preferenceweek_myCalendar": "빈 시간 전체 보내기",
+
+  "accountSettings_name": "사용자 이름",
+  "eula": "최종 사용자 라이선스 계약",
+  "privacy_policy": "개인정보 보호정책",
+
+  "alert_title": "알림",
+  "alert_overlappingTime": "일정의 시작과 끝이 같을 수 없습니다",
+
+
+  "login": "로그인",
+  "login_kakaoText": "카카오톡으로 로그인",
+
+  "signup_title": "캘박 계정으로 가입",
+
+  "pending": "진행중인 그룹",
+
+  "error": "에러",
+
+  "empt_wt_error": "시간을 선택하지 않으셨습니다,\n다시 한번 시도해주세요",
+
+  "invalid_time_error": "시간 범위가 잘못 설정 되었습니다,\n다시 한번 시도해주세요"
+  
+}

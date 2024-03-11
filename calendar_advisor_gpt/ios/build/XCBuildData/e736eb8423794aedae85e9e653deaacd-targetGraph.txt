@@ -1,0 +1,46 @@
+Target dependency graph (12 targets)
+Alamofire in Alamofire, no dependencies
+Alamofire in Alamofire, depends on:
+Alamofire in Alamofire (explicit)
+KakaoSDKCommon in KakaoOpenSDK, depends on:
+Alamofire in Alamofire (explicit)
+KakaoSDKAuth in KakaoOpenSDK, depends on:
+KakaoSDKCommon in KakaoOpenSDK (explicit)
+Alamofire in Alamofire (explicit)
+KakaoSDKUser in KakaoOpenSDK, depends on:
+KakaoSDKCommon in KakaoOpenSDK (explicit)
+KakaoSDKAuth in KakaoOpenSDK (explicit)
+Alamofire in Alamofire (explicit)
+KakaoSDKTemplate in KakaoOpenSDK, depends on:
+KakaoSDKCommon in KakaoOpenSDK (explicit)
+Alamofire in Alamofire (explicit)
+KakaoSDKTalk in KakaoOpenSDK, depends on:
+KakaoSDKCommon in KakaoOpenSDK (explicit)
+KakaoSDKAuth in KakaoOpenSDK (explicit)
+KakaoSDKUser in KakaoOpenSDK (explicit)
+KakaoSDKTemplate in KakaoOpenSDK (explicit)
+Alamofire in Alamofire (explicit)
+KakaoSDKStory in KakaoOpenSDK, depends on:
+KakaoSDKCommon in KakaoOpenSDK (explicit)
+KakaoSDKAuth in KakaoOpenSDK (explicit)
+KakaoSDKUser in KakaoOpenSDK (explicit)
+Alamofire in Alamofire (explicit)
+KakaoSDKShare in KakaoOpenSDK, depends on:
+KakaoSDKCommon in KakaoOpenSDK (explicit)
+KakaoSDKTemplate in KakaoOpenSDK (explicit)
+Alamofire in Alamofire (explicit)
+KakaoSDKNavi in KakaoOpenSDK, depends on:
+KakaoSDKCommon in KakaoOpenSDK (explicit)
+Alamofire in Alamofire (explicit)
+KakaoSDK in KakaoOpenSDK, depends on:
+KakaoSDKCommon in KakaoOpenSDK (explicit)
+KakaoSDKAuth in KakaoOpenSDK (explicit)
+KakaoSDKUser in KakaoOpenSDK (explicit)
+KakaoSDKTalk in KakaoOpenSDK (explicit)
+KakaoSDKStory in KakaoOpenSDK (explicit)
+KakaoSDKShare in KakaoOpenSDK (explicit)
+KakaoSDKNavi in KakaoOpenSDK (explicit)
+KakaoSDKTemplate in KakaoOpenSDK (explicit)
+Alamofire in Alamofire (explicit)
+Runner in Runner, depends on:
+KakaoSDK in KakaoOpenSDK (explicit)

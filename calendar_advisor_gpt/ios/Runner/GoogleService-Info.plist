@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>485544452883-hrspgr174shv6efc7489tn0ueu683p5u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.485544452883-hrspgr174shv6efc7489tn0ueu683p5u</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>485544452883-fo4k4vcjdlsabf8gvvq5gvjajtnveps9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-wFyJCBmx4XsRUdkcd_R490dc4G7y0P0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>485544452883</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.calback.ai</string>
+	<key>PROJECT_ID</key>
+	<string>calback-gpt-advisor</string>
+	<key>STORAGE_BUCKET</key>
+	<string>calback-gpt-advisor.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:485544452883:ios:ce6c5adcb2f9b3f79f30e6</string>
+</dict>
+</plist>
