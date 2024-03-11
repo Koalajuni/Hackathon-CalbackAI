@@ -1,4 +1,6 @@
 # Ignore files and directories specified below
 /node_modules
 .env
-/services_kakao
+./lib/services_kakao/
+.kakao_auth.dart
+.kakao_link_with_dynamic_link.dart
